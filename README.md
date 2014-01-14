@@ -1,6 +1,7 @@
 Git-Pong
 =========
-Commit volley #1
+Commit volley #1 - @bmoren
+
 
 Rules
 -----------
@@ -14,7 +15,6 @@ Add anthing special that is required here for tracking
 
 Contributors
 -----------
-- @tstefanich
 - @bmoren
 
 
