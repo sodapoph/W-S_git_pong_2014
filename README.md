@@ -15,9 +15,6 @@ Add anthing special that is required here for tracking
 Contributors
 -----------
 - @bmoren
-=======
 - @iruder
-=======
 - @joanninmn1
-=======
 - @albnz
