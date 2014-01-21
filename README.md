@@ -15,10 +15,9 @@ Add anthing special that is required here for tracking
 Contributors
 -----------
 - @bmoren
-<<<<<<< HEAD
+=======
 - @iruder
 =======
 - @joanninmn1
-
-
->>>>>>> 5ee304aefcda240054fce219f314308356d4dd50
+=======
+- @albnz
