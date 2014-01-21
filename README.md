@@ -1,8 +1,5 @@
 Git-Pong
 =========
-Commit volley #1 - @bmoren
-
-
 Rules
 -----------
 1. you can add rules here
@@ -12,6 +9,8 @@ Rules
 Requirements
 -----------
 Add anthing special that is required here for tracking
+
+1. jQuery
 
 Contributors
 -----------
